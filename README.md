@@ -5,7 +5,7 @@ I'm a cybersecurity student with interests in threat detection, systems security
 ### 🛠 Technical Skills
 - **Languages:** Java, C/C++, SQL, Python, JavaScript, Assembly, Racket  
 - **Frameworks & Tools:** React, Git, Linux, VSCode, Figma
-- **Other:** VSCode, IntelliJ, Eclipse, JUnit  
+- **Other:** VSCode, IntelliJ, Eclipse, JUnit, Google Suite, Microsoft Office  
 
 ### 📌 Featured Projects
 - **Sanguine Game with AI Strategies** — Two-player strategy game with optional AI gameplay

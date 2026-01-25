@@ -8,13 +8,11 @@ I'm a cybersecurity student with interests in threat detection, systems security
 - **Other:** VSCode, IntelliJ, Eclipse, JUnit, Google Suite, Microsoft Office  
 
 ### 📌 Featured Projects
-- **Sanguine Game with AI Strategies** — Two-player strategy game with optional AI gameplay
-*Source code can be provided upon request due to course requirements.*
+- **Sanguine Game with AI Strategies** — Two-player strategy game with optional AI gameplay. *Source code can be provided upon request due to course requirements.*
 - **FUSE Based File System** — Virtual filesystem in C using FUSE, supporting file creation, deletion, renaming, directory
-traversal, and mountable user-space storage on a 1MB disk image
-*Source code can be provided upon request due to course requirements.*
-- **FlowMersion Product Website** — Client-facing React website advertising products and storing user data securely
-- **Personal Portfolio Website** — Responsive React-based portfolio showcasing my professional and personal work  
+traversal, and mountable user-space storage on a 1MB disk image. *Source code can be provided upon request due to course requirements.*
+- **FlowMersion Product Website** — Client-facing React website advertising products and storing user data securely.
+- **Personal Portfolio Website** — Responsive React-based portfolio showcasing my professional and personal work. 
 
 ### 🤝 Let’s Connect
 - 📧 Email: tang.ivy@northeastern.edu  

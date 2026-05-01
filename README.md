@@ -7,7 +7,7 @@ I'm a cybersecurity student with interests in threat detection, systems security
 - **Frameworks & Tools:** React, Git, Linux, VSCode, Figma
 - **Other:** VSCode, IntelliJ, Eclipse, JUnit, Google Suite, Microsoft Office  
 
-### 📌 Featured Projects
+### 📌 Featured Repos
 - **Superpower Mentors Website** — Website rebrand for mentoring company Superpower Mentors. Includes backend forms, popup quiz with data collection, and animations throughout a clean and informative website.*
 -- **FlowMersion Product Website** — Client-facing React website advertising products and storing user data securely.
 -  **Sanguine Game with AI Strategies** — Two-player strategy game with optional AI gameplay. *Source code can be provided upon request due to course requirements.*
